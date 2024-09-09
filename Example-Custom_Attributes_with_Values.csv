@@ -1,0 +1,4 @@
+﻿Server Name,Application,Server Owner,Spec,Director Head,VP Head
+VM-01,Enterprise,B2B Performance Monitor,SPEC01,Head1,VP Head1
+VM-02,CHANNELS-USSD,B2B Performance Monitor,SPEC01,Head2,VP Head1
+VM-03,CHANNELS-SMS,B2B Performance Monitor,SPEC01,Head3,VP Head1
